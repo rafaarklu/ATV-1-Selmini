@@ -6,7 +6,7 @@ public class atv2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o tamanho do array: ");
-        int n = scanner.nextInt();
+        
         int[] array = new int[n];
         
         System.out.println("Digite os elementos do array: ");
